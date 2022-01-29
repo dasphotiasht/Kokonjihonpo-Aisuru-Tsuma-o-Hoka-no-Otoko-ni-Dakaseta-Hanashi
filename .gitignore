@@ -1,0 +1,7 @@
+assets/
+backup/
+output/
+psd/
+raw/
+scripts/~$*
+*.gitkey
